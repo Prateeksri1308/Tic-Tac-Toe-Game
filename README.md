@@ -1,5 +1,5 @@
 # 🎮 Tic Tac Toe Game
-Tic Tac Toe mini Game with apis
+Tic Tac Toe mini Game 🎮 with apis
 
 
 A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. Play as X or O against a friend — complete with win detection, UI feedback, and reset functionality!
