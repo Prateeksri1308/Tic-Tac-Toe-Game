@@ -27,7 +27,7 @@ A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaS
 ## 📂 File Structure
 
 📁 tictactoe/
-├── tictactoe.html # Main HTML file
+├── index.html # Main HTML file
 ├── tictactoe.css # Styling for the game
 ├── ticktactoe.js # Game logic and interactivity
 └── README.md # This file
